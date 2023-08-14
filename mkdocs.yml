@@ -1,0 +1,71 @@
+site_name: Armchair Engineering
+site_url: https://armchairengineri.ng/
+repo_url: https://github.com/Armchair-Engineering/Archetype
+repo_name: Armchair-Engineering/Archetype
+
+theme:
+  name: material
+  logo: ./assets/images/ae_gray.png # burger menu logo
+  favicon: ./assets/images/nav.ico
+  features:
+    - navigation.instant
+    - navigation.tabs
+ #   - navigation.sections  # insiders only feature
+ #   - navigation.expand  # not needed with current nav style
+    - navigation.footer
+  font: 
+    text: Ubuntu
+extra_css:
+  - ./assets/stylesheets/extra.css
+  - https://fonts.googleapis.com/css2?family=Orbitron&display=swap
+
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - attr_list
+
+plugins:
+  - search
+  - tags
+  # - multirepo:                    # commented as not used at this level of repo
+  #     cleanup: false
+  #     nav_repos:
+  #       - name: fast-api
+  #         import_url: https://github.com/tiangolo/fastapi
+  #         imports: [docs/en/docs/index.md]
+nav: 
+  - Archetype: ./index.md
+  - Atrocity: 
+    - About: ./atrocity.md
+    - Build: ./builds/build_atrocity.md
+  - Breakneck: 
+    - About: ./breakneck.md
+    - Build: ./builds/build_breakneck.md
+  - Mjolnir: 
+    - About: ./mjolnir.md
+    - Build: ./builds/build_mjolnir.md   
+  - Mantis: 
+    - About: ./mantis.md
+    - Build: ./builds/build_mantis.md
+  - Xol: 
+    - About: ./xol.md
+    - Build: ./builds/build_xol.md
+  - Zephyr: 
+    - About: ./zephyr.md
+    - Build: ./builds/build_zephyr.md
+  - Acknowledgements: ./acknowledgements.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Armchair-Engineering
+      name: Armchair Engineering on GitHub
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/armchairengineeringsux
+      name: Join Our Discord Server
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:email@armchairengineeri.ng
+      name: send us an email
+  generator: false
+
+copyright: Copyright &copy; 2023 Armchair Engineering
