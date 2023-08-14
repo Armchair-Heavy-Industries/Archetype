@@ -102,7 +102,7 @@
   width: auto;
 }
 
-.md-tabs__link,.md-nav__link,.orbitron {
+.md-header__topic,.md-footer__title,.md-copyright__highlight,.md-source__fact,.md-source__repository,.md-tabs__link,.md-nav__link,.orbitron {
   font-family: 'orbitron'; 
 }
 
