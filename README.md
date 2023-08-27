@@ -67,6 +67,6 @@ More to be added as development continues.
 
 # WE STAND ON THE SHOULDERS OF GIANTS
 
-i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Derpimus, Corvid, Zruncho, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af, Kyleisah and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
+i want to give a particularly huge thanks to DoubleT, aTinyShellScript, Lordinio, Derpimus, Corvid, Zruncho, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af, Kyleisah and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
 
 Huge thanks to everyone in the Armchair Engineering, Voron, and Annex discords for all the help and support in bringing this project together.
