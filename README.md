@@ -15,6 +15,8 @@ Anticipating a hint of meh-ness? Let's be real – diamonds are born from pressu
 
 So, are you up for the challenge? Ready to be part of a story that celebrates imperfections and turns them into strengths? Embrace the thrill of being part of the Beta Experience. Your adventure starts now!
 
+And yes... Maz did get ChatGPT to write this in order to let Leddhedd get a little sleep for a couple of days!
+
 ## Whats next?
 
 During the course of the beta we will continue to work on the supporting documentation, build guides and the configuator.
