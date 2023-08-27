@@ -1,72 +1,24 @@
-# Archetype
-
-<p align="center">
-  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/BreakNeck_Front_Render.png" alt="Header"/>
-</p>
-
-Archetype Toolhead System
-
-[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
+![archtype](./docs/assets/images/archetype-options.png)
 
 
-## THIS IS A WIP
-Archetype is currently in Open Beta. The toolhead is mostly feature complete, and will not be fully documented until open beta. Please be patient and ask in the discord if you have any issues.
+[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/v7GUVFJx)
 
-## [> > > ASSEMBLY GUIDE < < <](https://github.com/leddhedd/BreakNeck/blob/main/Images/Assembly/Assembly-Instructions.md)
+## Embrace the Unpolished Chaos: Enter the Beta Experience!
 
-<p align="center">
-  <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png" alt="Header"/>
-</p>
+You're on the cusp of something special – a journey into the heart of innovation where rough edges and uncharted pathways converge.
 
-![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Core.png)
-![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/Header.png)
+Why the Beta Phase? We're not seeking the faint praise of the masses. We want the daring minds, the ones unafraid to venture into the unknown and share their unvarnished thoughts. Your feedback will be the chisel that refines our creation into a work of art.
 
+Documentation? We're shedding the shackles of traditional handholding. No dense manuals here! Instead, we'll learn together through experimentation and intuition. It's a bit like learning to dance in the rain – unpredictable, but oh-so-liberating.
 
-## What is this?
+Anticipating a hint of meh-ness? Let's be real – diamonds are born from pressure, and our journey is no different. There might be a hiccup or two, but it's all part of the charm. We're crafting an experience that's as authentic as it gets.
 
-Archetype is a toolhead designed primarily for the Voron ecosystem, and any other front rail, front belt CoreXY Printer.
-The main features and focus of this toolhead system is a platform for future development; for us and for others. A rigid and modular base for other toolhead configurations to be built upon.
+So, are you up for the challenge? Ready to be part of a story that celebrates imperfections and turns them into strengths? Embrace the thrill of being part of the Beta Experience. Your adventure starts now!
 
-![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/airflow%20path.png)
+## Whats next?
 
-![image](https://github.com/leddhedd/BreakNeck/blob/main/Images/filament%20path.png)
+During the course of the beta we will continue to work on the supporting documentation, build guides and the configuator.
 
+## Where is the CAD?
 
-
-
-## Currently Supported Hardware:
-strikethrough is incomplete but planned
-
-### Carriages
-- MGN12 6mm Belts
-- MGN12 9mm Belts
-- MGN9 6mm Belts
-- MGN9 9mm Belts
-
-### Extruders
-- VZ-Hextrudort
-- Sherpa Micro
-- Kyro
-- Escapement 
-
-### Hotends:
-- Goliath
-- Rapido
-- Dragon/DragonUHF
-- Volcmosq
-- Waterheater
-
-### Probes
-- Beacon (Normal and Right Angle)
-- Klicky
-- Klicky/PCB
-- Euclid
-
-
-More to be added as development continues.
-
-# WE STAND ON THE SHOULDERS OF GIANTS
-
-I want to give a particularly huge thanks to DoubleT, aTinyShellScript, Lordinio, Derpimus, Corvid, Zruncho, Maz, Kmobs, Smokescreens, Zackm0n, ohpvp, DWTas, ByThorsThunder, Frank.af, Kyleisah and many others for getting stuck in, test printing parts, and in some particularly idiotic cases, trialing, fitting and using the toolhead. the 3dp community wouldnt be what it is without the contibution and help of individuals like these, and i certainly wouldnt have completed the project to this level of polish without their help.
-
-Huge thanks to everyone in the Armchair Engineering, Voron, and Annex discords for all the help and support in bringing this project together.
+The CAD is undergoing some housekeeping before both .STEP and .F3D files will be made avaliable shortly.
