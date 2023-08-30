@@ -24,3 +24,8 @@ During the course of the beta we will continue to work on the supporting documen
 ## Where is the CAD?
 
 The CAD is undergoing some housekeeping before both .STEP and .F3D files will be made avaliable shortly.
+
+
+## Incase you missed it **Check out the Beta Release VOD below!**
+
+[![Archetype Beta Release Stream](https://img.youtube.com/vi/wc67sXDRiaM/0.jpg)](https://www.youtube.com/watch?v=wc67sXDRiaM&t=387s "Archetype Beta Release Stream")
