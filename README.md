@@ -1,7 +1,7 @@
 ![archtype](./docs/assets/images/archetype-options.png)
 
 
-[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/v7GUVFJx)
+[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
 ## Embrace the Unpolished Chaos: Enter the Beta Experience!
 
