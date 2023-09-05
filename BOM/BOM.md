@@ -7,7 +7,7 @@
 |                                                         |                                                          |          |                                                                       |          |
 |                                                         |                                                          | Heatsets |                                3x4x5mm                                | 4        |
 |                                                         |                                                          |          |                                                                       |          |
-|                                                         |                                                          |   Pins   |                             3x50mm [M3x45]                            | 2        |
+|                                                         |                                                          |   Pins   |                             3x50mm or [M3x45 SHCS]                            | 2        |
 |                                                         |                                                          |          |                                                                       |          |
 | Rail Carriage:                                          |                                                          |          |                                                                       |          |
 |                                                         |                                                          |          |                                                                       |          |
