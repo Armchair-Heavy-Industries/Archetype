@@ -60,9 +60,3 @@
 |                                       |                                                                       |          |
 |              *Sherpa Mini (Flat only):* | `M3x16`                                                                 | 2        |
 |                                       | `3x4x5mm M3 Heat Set Inserts`                                           | 2        |
-|                                       |                                                                       |          |
-|                                       |                                                                       |          |
-|                                       |                                                                       |          |
-|                                       |                                                                       |          |
-|                                       |                                                                       |          |
-|                                       |                                                                       |          |
