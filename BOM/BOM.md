@@ -1,5 +1,6 @@
 # Archetype BOM
 (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
+
 SHCS unless otherwise stated
 
 ## Core:
