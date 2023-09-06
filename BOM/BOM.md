@@ -1,5 +1,6 @@
 # Archetype BOM
 ## (O) Denotes optional, Size variables notated in brackets as such: [ Large / Medium / Small ]
+## SHCS unless otherwise stated
 
 ## Core:
 |Variant/Type|Item|Quantity|
@@ -8,7 +9,7 @@
 |         | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 4 |
-|         | 3x50mm smooth pins OR  [M3x45 SHCS] | 2 |
+|         | 3x50mm smooth pins OR  [M3x45] | 2 |
 
 ## Rail Carriage:
 |Variant/Type|Item|Quantity|
