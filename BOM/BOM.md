@@ -64,10 +64,10 @@ Breakneck Blocks and Flat-Top Blocks use common hardware.
 |Variant/Type|Item|Quantity|
 |:-------------------------|-----------------------------|--:|
 | VZHextrudort:            |                             |   |
-|                          | M3x12mm SHCS                | 2 |
+|                          | M3x12mm                     | 2 |
 |                          |                             |   |
 | Sherpa Micro:            |                             |   |
-|                          | M3x16mm SHCS                | 2 |
+|                          | M3x16mm                     | 2 |
 |                          | 3x4x5mm M3 Heat Set Inserts | 2 |
 |                          |                             |   |
 | Sherpa Mini (Flat only): |                             |   |
