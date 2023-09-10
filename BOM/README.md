@@ -10,7 +10,7 @@ SHCS unless otherwise stated
 |         | M3x20mm SHCS                        | 2 |
 |         | M3x35mm SHCS                        | 2 |
 |         | 3x4x5mm M3 Heat Set Inserts         | 2 |
-|         | M3 Square Nuts                      | 2 |
+|         | M3 Square Nuts Thin (1.8mm)         | 2 |
 |         | 3x50mm smooth pins OR  [M3x45] | 2 |
 
 ## Rail Carriage:
@@ -29,7 +29,7 @@ SHCS unless otherwise stated
 |        | M3x8mm BHCS                 | 2 |
 |        | M3 Washer                   | 4 |
 |        | M5 Washer                   | 4 |
-|        | M3 Square Nuts              | 2 |
+|        | M3 Square Nuts Thin (1.8mm)             | 2 |
 |        | 3x4x5mm M3 Heat Set Inserts | 4 |
 
 ## Probes:
