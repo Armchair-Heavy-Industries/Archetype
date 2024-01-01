@@ -1,1 +1,0 @@
-The as of yet unnamed 4010 variant of the Archetype Toolhead Ecosystem
