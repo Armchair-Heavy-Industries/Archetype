@@ -58,7 +58,7 @@ SHCS unless otherwise stated
 | DragonUHF, Rapido, Goliath:|                                           |   |
 |                            | M2.5x8mm                                  | 4 |
 |                            |                                           |   |
-| Waterheater:               |                                           |   |
+| Chube:               |                                           |   |
 |                            | M3x??mm                                   | 6 |
 
 ## Extruder Blocks:
