@@ -5,7 +5,7 @@
 
 ## Archetype
 
-BOM, Docs, etc. here : https://armchairheavyindustries.com/archetype
+BOM, Docs, etc. here : https://armchairheavyindustries.com/armchair-docs/
 
 
 # Archetype Beta Release Stream:
