@@ -1,4 +1,4 @@
-![archtype](./docs/assets/images/archetype-options.png)
+![archtype](./archetype-options.png)
 
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
