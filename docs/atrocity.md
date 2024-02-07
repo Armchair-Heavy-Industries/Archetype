@@ -1,1 +1,0 @@
-![Atrocity Toolhead](assets/images/atrocity.png){.atrocity : width='200px' : hight='200px' }
