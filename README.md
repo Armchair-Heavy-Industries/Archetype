@@ -6,6 +6,7 @@
 ## Archetype
 
 BOM, Docs, etc. [here.](https://docs.armchairheavyindustries.com)
+
 If you're looking for usermods, you can find them [here.](https://github.com/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files/Archetype)
 
 # Archetype Beta Release Stream:
